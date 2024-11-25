@@ -6,5 +6,5 @@ In short, it is the go-to website for anyone who wants information related to co
 
 Created By:
 
-### Aditya Khevaria -
-Github Id: adityakhevaria
+### Anshika Mishra -
+Github Id: Anshika2520
